@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Notebooks Now! Steering Committee Meeting (July 28, 2022)"
-subtitle: "Report and materials"
+subtitle: "Topics discussed and next steps"
 date: 2022-07-28
 background: '/img/posts/AGU-Stock-Lake-Reflection-Sunset.jpg'
 ---
