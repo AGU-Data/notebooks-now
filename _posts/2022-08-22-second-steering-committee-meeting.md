@@ -17,3 +17,5 @@ Main action items included:
 - SC to further refine topics/workstreams and prepare material for November workshop
 
 Next workshop will be held at AGU HQ in Washington, DC and virtually November 3-4, 2022
+
+pubs!
