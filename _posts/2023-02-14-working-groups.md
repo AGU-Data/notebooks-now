@@ -11,27 +11,27 @@ Following the November workshop, we set out to define the minimum viable product
 The five working groups and their Chairs are as follows:
 
 **Pre-submission**
-Rachel Kurchin
-Steve Purves
+- Rachel Kurchin
+- Steve Purves
 
 **Metadata**
-Kenton McHenry
-Julia Wagemann
+- Kenton McHenry
+- Julia Wagemann
 
 **Editorial and Peer Review**
-Tony Castronova
-James Munroe
-Rae De Guzman
+- Tony Castronova
+- James Munroe
+- Rae De Guzman
 
 **Production and Post-Production**
-Rowan Cockett
-Brooks Hanson
-Alberto Pepe
+- Rowan Cockett
+- Brooks Hanson
+- Alberto Pepe
 
 **Content Consumer**
-Doug Schuster
-Jeffrey Beck
-Sam Teplitzky
+- Doug Schuster
+- Jeffrey Beck
+- Sam Teplitzky
 
 The working groups convened beginning in February 2023. Using the MVP document as a guide, the working groups began answering the questions raised at the November workshop. 
 
