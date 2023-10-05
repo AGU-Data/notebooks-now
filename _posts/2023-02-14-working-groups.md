@@ -2,7 +2,7 @@
 layout: post
 title: "Notebooks Now! Working Groups"
 subtitle: ""
-date: 2023-03-14
+date: ""
 background: '/img/posts/AGU-Stock-Lake-Reflection-Sunset.jpg'
 ---
 
