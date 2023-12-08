@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Notebooks Now! Working Groups"
+title: "Notebooks Now! Working Groups Engage to Tackle MVP"
 subtitle: ""
-date: "2023-10-05"
+date: "2023-02-05"
 background: '/img/posts/AGU-Stock-Lake-Reflection-Sunset.jpg'
 ---
 
