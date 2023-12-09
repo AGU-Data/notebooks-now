@@ -10,7 +10,7 @@ We’re excited to share that we are on track and presenting the work of the tea
 
 Here are the highlights of our progress: 
 - The pre-submission group refined and tested the  submission templates. Looking good!
-- Curvenote and AGU, along with Wiley and eJournalPress (AGU’s peer review management software vendor), n built nearly all of the infrastructure to support notebook submissions.  Just a few more adjustments to go.
+- Curvenote and AGU, along with Wiley and eJournalPress (AGU’s peer review management software vendor), built nearly all of the infrastructure to support notebook submissions.  Just a few more adjustments to go.
 - Curvenote and AGU built a documentation website for tool specific submission instructions for the AGU template. Continue refinement in progress.
 - Curvenote  refined a reading and hosting platform, and engaged with the authors of two previously published notebooks papers, to feature their content as part of a proof-of-concept.  Goose-bump moment!! Without going through the multi-week process of publishing a new paper, we can show how the new computational notebook will look in real life.  
 
