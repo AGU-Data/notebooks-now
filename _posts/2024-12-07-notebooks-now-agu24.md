@@ -8,9 +8,9 @@ background: '/img/posts/AGU-Stock-Lake-Reflection-Sunset.jpg'
 
 During AGU24 in Washington, DC next week we are sharing progress updates and next steps: 
 
-**Abstract – Oral session** <br>
+**Lightning Talk** <br>
 [U12A-02 Progress on Notebooks Now!: A Comprehensive Peer-reviewed Publishing Workflow for Computational Notebooks that Integrates Text With Code as a New Format Contribution to the Scientific Record](https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1701371)<br>
-Union Session: [U12A - Streamlining and Improving Publication Transparency in the Natural Sciences](https://agu.confex.com/agu/agu24/meetingapp.cgi/Session/240984) 
+As part of Union Session: [U12A - Streamlining and Improving Publication Transparency in the Natural Sciences](https://agu.confex.com/agu/agu24/meetingapp.cgi/Session/240984) <br>
 Monday, 9 December 2024<br>
 10:20-11:50<br>
 Ballroom B - Convention Center
@@ -23,8 +23,8 @@ Salon G - Convention Center
 
 **[Open Science Pavilion](https://data.agu.org/OSDHD/)** <br>
 We’ll be at the Open Science Pavilion in the AGU24 Exhibit Hall Mon-Thurs (hours below)<br>
-Curvenote will be presenting at the big screen at the Open Science Pavilion throughout the week<br>
-Hall A
+Curvenote will be presenting at the big screen at the Open Science Pavilion throughout the week.<br>
+See the full Open Science Pavilion schedule here:[Open Science Pavilion](https://data.agu.org/OSDHD/)
 
 **Exhibit Hall hours**<br>
 Monday 15:00-18:00 EST<br>
