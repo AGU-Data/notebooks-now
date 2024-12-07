@@ -16,7 +16,7 @@ Monday, 9 December 2024<br>
 Ballroom B - Convention Center
 
 **Town Hall**<br>
-[TH35K - Notebooks Now! What’s Next for the Computational Notebook Submission Format at AGUU](https://agu.confex.com/agu/agu24/meetingapp.cgi/Session/228148)<br>
+[TH35K - Notebooks Now! What’s Next for the Computational Notebook Submission Format at AGU](https://agu.confex.com/agu/agu24/meetingapp.cgi/Session/228148)<br>
 Wednesday, 12 December 2024
 18:00 - 19:00
 Salon G - Convention Center
